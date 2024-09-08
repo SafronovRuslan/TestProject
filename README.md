@@ -28,4 +28,6 @@ Win Amount Calculation:
 ✔ If the random number is greater than 600, the winning amount should be 50% of the random number.
 ✔ If the random number is greater than 300, the winning amount should be 30% of the random number.
 ✔ If the random number is 300 or less, the winning amount should be 10% of the random number.
+
+
 ✔ Upon clicking the History button, the user can view information about the last 3 results from clicking the Imfeelinglucky button.
